@@ -41,16 +41,7 @@ The dataset is licensed under CC BY 4.0.
 - TF-IDF
 - Logistic Regression
 
-## Project Structure
 
-```text
-pesashield/
-├── data/
-├── notebooks/
-├── src/
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 
 
